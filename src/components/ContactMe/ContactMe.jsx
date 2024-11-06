@@ -4,7 +4,7 @@ import ContactInfoCard from './ContactinfoCard/Contactinfocard'
 import { MdOutlineEmail } from "react-icons/md";
 import { FaGithub } from "react-icons/fa";
 import { FaPhone } from "react-icons/fa";
-import ContactForm from './ContactForm/Contactform';
+import ContactForm from './ContactForm/ContactForm';
 
 
 

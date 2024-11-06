@@ -12,10 +12,10 @@ import  react from "../../assets/react.svg"
 const Hero = () => {
   return (
     <section className="hero-container">
-        <div>
+        <div className='intro'>
             <h2>Building Digital Experiences That Inspire</h2>
             <p>
-                Passionate Frontend Developer | Transforming Ideas into Seamless and Visually Stunning Solutions.
+                Passionate Full Stack Developer | Transforming Ideas into Seamless and Visually Stunning Solutions.
             </p>
         </div>
 

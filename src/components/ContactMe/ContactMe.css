@@ -26,6 +26,12 @@
     }
 }
 
+@media (max-width: 450px){
+    .contact-content {
+        flex-direction:column-reverse;
+
+    }
+}
 
 
 

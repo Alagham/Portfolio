@@ -55,6 +55,7 @@ form button:hover {
 
 @media (max-width: 450px){
     .name-container{
+        display: flex;
         flex-direction: column;
         align-items: flex-start;
 
