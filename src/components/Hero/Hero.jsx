@@ -25,26 +25,27 @@ const Hero = () => {
                     <img src={react} alt="" />
                 </div>
                 <img className="Soft" src={HeroImg} alt="" />
-            </div>
-            <div>
-                <div className="tech-icon">
-                    <img src={HtmlImg} alt="" />
-                </div>
-                <div className="tech-icon">
-                    <img src={CSSImg} alt="" />
-                </div>
-                <div className="tech-icon">
-                    <img src={jsImg} alt="" />
-                </div>
-                <div className="tech-icon">
-                    <img src={ NodejsImg} alt="" />
-                </div>
-                <div className="tech-icon">
-                    <img src={TSImg} alt="" />
-                </div>
-                <div className="tech-icon">
+                <div className="tech-icon6">
                     <img src={ApiImg} alt="" />
                 </div>
+            </div>
+            <div className=''>
+                <div className="tech-icon1">
+                    <img src={HtmlImg} alt="" />
+                </div>
+                <div className="tech-icon2">
+                    <img src={CSSImg} alt="" />
+                </div>
+                <div className="tech-icon3">
+                    <img src={jsImg} alt="" />
+                </div>
+                <div className="tech-icon4">
+                    <img src={ NodejsImg} alt="" />
+                </div>
+                <div className="tech-icon5">
+                    <img src={TSImg} alt="" />
+                </div>
+               
             </div>
         </div>
     </section>

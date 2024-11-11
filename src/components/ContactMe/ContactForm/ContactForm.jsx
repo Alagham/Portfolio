@@ -3,7 +3,7 @@ import "./ContactForm.css"
 
 const Contactform = () => {
   return (
-    <di className="contact-form-content">
+    <div className="contact-form-content">
         <form>
             <div className="name-container">
                 <input type="text" name='firstname' placeholder='First Name'/>
@@ -14,7 +14,7 @@ const Contactform = () => {
 
             <button>SEND</button>
         </form>
-    </di>
+    </div>
   )
 }
 

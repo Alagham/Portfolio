@@ -65,7 +65,7 @@
     flex-direction: column;
     align-items: center;
     gap: 2rem;
-    margin-top: 5rem;
+    margin-top: 0rem;
 }
 
 .hero-img > div {
@@ -87,8 +87,9 @@
 }
 
 .tech-icon {
-    width: 5rem;
-    height: 5rem;
+    width: 4rem;
+    height: 4rem;
+    /* margin-left: 3px; */
     display: flex;
     justify-content:center ;
     align-items: center;
@@ -102,6 +103,133 @@
     height: auto;
     transition: all 0.3s ease;
 }
+
+.tech-icon1{
+    width: 4rem;
+    height: 4rem;
+    /* margin-left: 3px; */
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    /* text-align: center; */
+    border-radius: 0.65rem;
+    border: 1.5px solid #6852ba;
+}
+
+.tech-icon1 img{
+    width: 2.5rem;
+    height: auto;
+    transition: all 0.3s ease;
+}
+
+
+.tech-icon2{
+    width: 4rem;
+    height: 4rem;
+    /* margin-left: 3px; */
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    /* text-align: center; */
+    border-radius: 0.65rem;
+    border: 1.5px solid #6852ba;
+}
+
+.tech-icon2 img{
+    width: 3rem;
+    height: auto;
+    transition: all 0.3s ease;
+}
+
+
+.tech-icon3 {
+    width: 4rem;
+    height: 4rem;
+    /* margin-left: 3px; */
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    /* text-align: center; */
+    border-radius: 0.65rem;
+    border: 1.5px solid #6852ba;
+}
+
+.tech-icon3 img{
+    width: 3rem;
+    height: auto;
+    transition: all 0.3s ease;
+}
+
+
+.tech-icon4 {
+    width: 4rem;
+    height: 4rem;
+    /* margin-left: 3px; */
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    /* text-align: center; */
+    border-radius: 0.65rem;
+    border: 1.5px solid #6852ba;
+}
+
+.tech-icon4 img{
+    width: 3rem;
+    height: auto;
+    transition: all 0.3s ease;
+}
+
+
+.tech-icon5 {
+    width: 4rem;
+    height: 4rem;
+    /* margin-left: 3px; */
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    /* text-align: center; */
+    border-radius: 0.65rem;
+    border: 1.5px solid #6852ba;
+}
+
+.tech-icon5 img{
+    width: 3rem;
+    height: auto;
+    transition: all 0.3s ease;
+}
+
+
+.tech-icon6 {
+    width: 4rem;
+    height: 4rem;
+    /* margin-left: 3px; */
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    /* text-align: center; */
+    border-radius: 0.65rem;
+    border: 1.5px solid #6852ba;
+    /* position: absolute;
+    top: 25rem;
+    right: -6.5rem; */
+
+}
+
+.tech-icon6 img{
+    width: 3rem;
+    height: auto;
+    transition: all 0.3s ease;
+
+}
+
+
+.tech-icon1,.tech-icon2,.tech-icon3,.tech-icon4,.tech-icon5,.tech-ico6, img:hover {
+    transform: translateY(-0.5rem);
+}
+
+
+
+
 
 .hero-img > div > img:hover,
 .tech-icon img:hover {
@@ -220,5 +348,5 @@
 }
 
 @media (max-width: 169px){
-    
+
 }
